@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Tamerlan Tabolov'
-description: 'CS student in HSE. ML enthusiast. Developer in Yandex'
+description: 'CS student in HSE. ML enthusiast. Developer in Yandex.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -18,7 +18,7 @@ favicon: 'favicon.ico'
 # instagram: 'myinsta'
 # pinterest: 'mypinterest'
 # youtube: 'myyoutube'
-# github-user: 'The0nix   '
+github-user: 'The0nix'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
