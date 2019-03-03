@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Tamerlan Tabolov'
+description: 'CS student in HSE. ML enthusiast. Developer in Yandex'
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,14 +11,14 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-linkedin: 'mylinkedin'
-instagram: 'myinsta'
-pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+# dribbble: 'mydribbble'
+# facebook: 'myfacebook'
+# twitter: 'mytwitter'
+# linkedin: 'mylinkedin'
+# instagram: 'myinsta'
+# pinterest: 'mypinterest'
+# youtube: 'myyoutube'
+# github-user: 'The0nix   '
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -27,14 +27,15 @@ github-user: 'mygithub'
 #stack-overflow: ''
 #reddit: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+# tumblr: 'mytumblr'
+# weibo: 'myweibo'
+vk: 'rbtree'
+# blog_url: 'myblog.blog.com'
+email: 'tktabolov@yandex-team.ru'
+# messenger: 'myfbchat'
+telegram: '@OnixinO'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, telegram, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
@@ -153,3 +154,7 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
+
+  - name: email
+    url-scheme: 'mailto:'
+    url-pattern: 't.me/__USERNAME__'
