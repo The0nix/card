@@ -154,7 +154,3 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
-
-  - name: email
-    url-scheme: 'mailto:'
-    url-pattern: 't.me/__USERNAME__'
