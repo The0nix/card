@@ -18,7 +18,7 @@ favicon: 'favicon.ico'
 # instagram: 'myinsta'
 # pinterest: 'mypinterest'
 # youtube: 'myyoutube'
-github-user: 'The0nix'
+github: 'The0nix'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -33,9 +33,9 @@ vk: 'rbtree'
 # blog_url: 'myblog.blog.com'
 email: 'tktabolov@yandex-team.ru'
 # messenger: 'myfbchat'
-telegram: '@OnixinO'
+telegram: 'OnixinO'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, telegram, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, telegram, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
@@ -89,7 +89,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
